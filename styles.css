@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+button{
+    background-color: rgb(116, 223, 187);
+    padding: 10px 15px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    left: 94%;
+    top: 93%;
+    cursor: pointer;
+}
